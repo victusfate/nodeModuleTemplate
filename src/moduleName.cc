@@ -129,7 +129,11 @@ extern "C" {
   {
       HandleScope scope;
       cout << "_MODULE_NAME_NODE_MODULE is defined " << endl;
+      
+      // functions
       NODE_SET_METHOD(exports, "hello", hello);
+
+      // classes
       MyObject::Init(exports);
   }
 

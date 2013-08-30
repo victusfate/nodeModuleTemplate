@@ -1,4 +1,4 @@
-![ModuleName](https://github.com/victusfate/nodeModuleTemplate/raw/master/test/nodejs-dark.png)
+![ModuleName](https://github.com/victusfate/nodeModuleTemplate/raw/master/nodejs-dark.png)
 ModuleName
 ===
 
