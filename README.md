@@ -4,4 +4,4 @@ ModuleName
 
 ModuleName will do something wonderful, like rapidly scaffold boilerplate module code.
 
-more info: [how to module](http://howtonode.org/how-to-module)
+more info: [addons](http://nodejs.org/api/addons.html)
